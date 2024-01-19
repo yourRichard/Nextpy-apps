@@ -22,7 +22,7 @@ def index():
                 xt.box(
                     xt.box(
                         xt.text(
-                            "Login to your account",
+                            "Login to your account.",
                             fontSize="35px",
                             color="#eaeaea",
                             font_weight="bold",
